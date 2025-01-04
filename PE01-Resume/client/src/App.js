@@ -1,10 +1,10 @@
 import React from 'react';
-import Resume from './Resume'; // Import the Resume component
+import Resume from './Resume';
 
 function App() {
   return (
     <div className="App">
-      <Resume /> {/* Use the Resume component */}
+      <Resume />
     </div>
   );
 }
