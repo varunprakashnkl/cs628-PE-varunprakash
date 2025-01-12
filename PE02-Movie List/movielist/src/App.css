@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
